@@ -14,6 +14,8 @@ module.exports = () => {
       install: './src/js/install.js'
     },
     output: {
+      sourceMapFilename: "./bundle.js.map",
+      pathinfo: true,
       filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
