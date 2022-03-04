@@ -37,4 +37,3 @@ export const getDb = async () => {
   return val;
 };
 
-initdb();
