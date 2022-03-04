@@ -23,7 +23,7 @@ An install button is on the landing page allows users to install the application
 
 ## Design Layout
 
-![alt text](#)
+![alt text](./image/Screenshot.png)
 
 ## Authors
 
