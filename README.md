@@ -1,6 +1,6 @@
 # HMT-Text-Editor
 
-MT Notebook is a text editing application that allows users to create notes or code snippets with or without an internet connection. The data is stored in an IndexedDB database inside users' browser for easy access. This application is built using starter code. 
+HMT Text Editor is a text editing application that allows users to create notes or code snippets with or without an internet connection. The data is stored in an IndexedDB database inside users' browser for easy access. This application is built using starter code. 
 
 
 ## Getting Started
